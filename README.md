@@ -13,4 +13,8 @@ cd calculator
 
 ## How to use?
 
-You can either install on your device or use git pages.
+You can either install on your device or use git pages. 
+
+## License 
+[Licence](https://github.com/Yuma-Tsushima07/calculator/edit/master/LICENSE)
+YOU ARE FREE TO USE THIS CODE IN ANY WAY SHAPE OR FORM! 
